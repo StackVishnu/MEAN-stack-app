@@ -1,2 +1,2 @@
 # MEAN-stack-app
-A mean stack application that implements crud operations as an Employee register
+A mean stack as an Employee register application that implements crud operations.
